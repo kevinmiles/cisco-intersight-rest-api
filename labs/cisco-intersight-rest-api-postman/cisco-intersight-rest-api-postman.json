@@ -1,0 +1,33 @@
+{
+    "labId": "cisco-intersight-rest-api-postman",
+    "title": "Introduction to the Cisco Intersight REST API with Postman",
+    "slug": "This Introduction to the Cisco Intersight REST API with Postman Learning Lab will guide you through the use of Cisco Intersight REST APIs with Postman to perform Queries, Updates and Configuration with Cisco Intersight.",
+    "time": "30",
+    "byod": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "Intersight"
+    }, {
+        "title": "REST"
+    }],
+    "files": [{
+        "title": "Create an Intersight Account",
+        "file": "1.md"
+    }, {
+        "title": "Import Intersight Postman Collection",
+        "file": "2.md"
+    }, {
+        "title": "Use Intersight Postman Collection",
+        "file": "3.md"
+    }],
+    "related": [{
+        "labId": "cisco-intersight-rest-api-python",
+        "title": "Introduction to the Cisco Intersight REST API with Python"
+    }],
+    "authors": [{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
+    }],
+    "active": true
+}
