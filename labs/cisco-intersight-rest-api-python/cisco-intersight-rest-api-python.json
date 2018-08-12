@@ -1,29 +1,29 @@
 {
-    "labId": "cloudcenter-rest-api-introduction",
-    "title": "Introduction to the Cisco CloudCenter REST API",
-    "slug": "This Introduction to Cisco CloudCenter REST API Learning Lab will guide you through the use of Cisco CloudCenter REST APIs to view and manage admin and user API Acess Keys, as well as the process of creating, updating and deleting users via the REST API.",
+    "labId": "cisco-intersight-rest-api-python",
+    "title": "Introduction to the Cisco Intersight REST API with Python",
+    "slug": "This Introduction to the Cisco Intersight REST API with Postman Learning Lab will guide you through the use of Cisco Intersight REST APIs with Python to perform Queries, Updates and Configuration with Cisco Intersight.",
     "time": "30",
     "byod": true,
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "CloudCenter"
+        "title": "Intersight"
     }, {
         "title": "REST"
     }],
     "files": [{
-        "title": "Cisco CloudCenter REST API",
+        "title": "Create an Intersight Account",
         "file": "1.md"
     }, {
-        "title": "Retrieve API Access Keys",
+        "title": "Import Intersight Postman Collection",
         "file": "2.md"
     }, {
-        "title": "Create, Update and Delete User",
+        "title": "Use Intersight Postman Collection",
         "file": "3.md"
     }],
     "related": [{
-        "labId": "cloudcenter-rest-api-application-profiles",
-        "title": "Deploying CloudCenter Application Profiles with the REST API"
+        "labId": "cisco-intersight-rest-api-postman",
+        "title": "Introduction to the Cisco Intersight REST API with Postman"
     }],
     "authors": [{
         "name": "John McDonough",
