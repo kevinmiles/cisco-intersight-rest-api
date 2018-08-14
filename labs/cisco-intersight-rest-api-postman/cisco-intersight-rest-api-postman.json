@@ -12,16 +12,16 @@
         "title": "REST"
     }],
     "files": [{
-        "title": "Create an Intersight Account",
+        "title": "Import Intersight Postman Collection",
         "file": "1.md"
     }, {
-        "title": "Import Intersight Postman Collection",
-        "file": "2.md"
-    }, {
         "title": "Use Intersight Postman Collection",
-        "file": "3.md"
+        "file": "2.md"
     }],
     "related": [{
+        "labId": "cisco-intersight-rest-api",
+        "title": "Introduction to the Cisco Intersight REST API"
+    },{
         "labId": "cisco-intersight-rest-api-python",
         "title": "Introduction to the Cisco Intersight REST API with Python"
     }],
