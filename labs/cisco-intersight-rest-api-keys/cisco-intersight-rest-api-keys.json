@@ -17,6 +17,9 @@
     },{
         "title": "Intersight Developer Tools",
         "file": "2.md"
+    },{
+        "title": "Intersight Claimed Device Deletion",
+        "file": "3.md"
     }],
     "related": [{
         "labId": "cisco-intersight-rest-api-postman",

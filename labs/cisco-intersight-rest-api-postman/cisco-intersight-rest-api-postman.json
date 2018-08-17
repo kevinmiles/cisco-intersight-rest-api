@@ -17,9 +17,12 @@
     }, {
         "title": "Use Intersight Postman Collection",
         "file": "2.md"
+    },{
+        "title": "Intersight Claimed Device Deletion",
+        "file": "3.md"
     }],
     "related": [{
-        "labId": "cisco-intersight-rest-api",
+        "labId": "cisco-intersight-rest-api-keys",
         "title": "Introduction to the Cisco Intersight REST API"
     },{
         "labId": "cisco-intersight-rest-api-python",

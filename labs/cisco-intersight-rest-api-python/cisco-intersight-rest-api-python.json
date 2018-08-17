@@ -1,7 +1,7 @@
 {
     "labId": "cisco-intersight-rest-api-python",
     "title": "Introduction to the Cisco Intersight REST API with Python",
-    "slug": "This Introduction to the Cisco Intersight REST API with Postman Learning Lab will guide you through the use of Cisco Intersight REST APIs with Python to perform Queries, Updates and Configuration with Cisco Intersight.",
+    "slug": "This Introduction to the Cisco Intersight REST API with Python Learning Lab will guide you through the use of Cisco Intersight REST APIs with Python to perform Queries, Updates and Configuration with Cisco Intersight.",
     "time": "30",
     "byod": true,
     "tags": [{
@@ -12,14 +12,17 @@
         "title": "REST"
     }],
     "files": [{
-        "title": "Create an Intersight Account",
+        "title": "Review and Setup Python REST API Code",
         "file": "1.md"
     }, {
         "title": "Use Intersight REST APIs with Python",
         "file": "2.md"
+    },{
+        "title": "Intersight Claimed Device Deletion",
+        "file": "3.md"
     }],
     "related": [{
-        "labId": "cisco-intersight-rest-api",
+        "labId": "cisco-intersight-rest-api-keys",
         "title": "Introduction to the Cisco Intersight REST API"
     },{
         "labId": "cisco-intersight-rest-api-postman",
