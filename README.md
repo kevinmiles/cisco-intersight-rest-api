@@ -8,7 +8,7 @@ Contributions are welcome, and we are glad to review changes through pull reques
 
 Once approved, Cisco DevNet reviewers then create a release that is published through our Learning Labs system.
 
-The goal of these learning labs is to ensure a 'hands-on' learning approach rather than just theory or instructions.
+The goal of these learning labs is to ensure a "hands-on" learning approach rather than just theory or instructions.
 
 ## About these Learning Labs
 
@@ -33,9 +33,9 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 
 #### Editors
 
-You can write Markdown in a plain text editor, but there are many desktop and Web-based options that allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for several reasons:
+You can write Markdown in a plain text editor, but there are many desktop and Web-based options that allow you to simultaneously write and preview your work. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for several reasons:
 - Lightweight environment for coding (or writing Markdown)
-- Available on Mac OS, Linux or Windows
+- Available on macOS, Linux or Windows
 - Github Client integration
 - Great Markdown preview features native in the editor
 - Intuitive operation and structure
